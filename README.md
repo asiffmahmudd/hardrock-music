@@ -1,10 +1,1 @@
-# hard-rock-solution
-### Search Song
-api link: https://api.lyrics.ovh/suggest/:searchText
-
-example: https://api.lyrics.ovh/suggest/hello
-
-### Lyric
-lyric link: https://api.lyrics.ovh/v1/:artist/:title
-
-example: https://api.lyrics.ovh/v1/Adele/Hello
+<h1><a href="https://asiffmahmudd.github.io/hardrock-music/">See It Here</a></h1>
